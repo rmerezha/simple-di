@@ -4,14 +4,14 @@
 
     <groupId>org.rmerezha</groupId>
     <artifactId>simple-di</artifactId>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <scm>
         <connection>scm:git:git@github.com:rmerezha/simple-di.git</connection>
         <developerConnection>scm:git:git@github.com:rmerezha/simple-di.git</developerConnection>
         <url>https://github.com/rmerezha/simple-di</url>
-      <tag>simple-di-1.0</tag>
+      <tag>HEAD</tag>
   </scm>
     <distributionManagement>
         <repository>
