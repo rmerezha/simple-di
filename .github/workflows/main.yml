@@ -8,3 +8,8 @@ jobs:
     steps:
       - name: Display text
         run: echo "Hello World"
+      - name: Multiline command
+        run: |
+          npm --version
+          node -v
+          
